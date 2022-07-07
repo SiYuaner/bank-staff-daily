@@ -2,7 +2,7 @@
 - 作息
   - 上午<strong>8点</strong>前结束洗漱、吃饭，上班
   - 下午<strong>2点</strong>上班
-  - 晚上</strong>11点</strong>上床，阅读，</strong>12点</strong>前睡觉  
+  - 晚上<strong>11点</strong>上床，阅读，<strong>12点</strong>前睡觉  
 - 学习内容
   - 1、WEB开发
     - 上午三节
